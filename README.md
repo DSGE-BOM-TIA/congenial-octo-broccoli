@@ -1,0 +1,3 @@
+app_plastic_banding_recovery.py
+requirements.txt
+hero_infographic.png
